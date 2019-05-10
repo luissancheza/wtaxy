@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "174804290051",
+    "firebase_url": "https://wtaxi-51515.firebaseio.com",
+    "project_id": "wtaxi-51515",
+    "storage_bucket": "wtaxi-51515.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:174804290051:android:bc2f3b253355e946",
+        "android_client_info": {
+          "package_name": "com.example.wtaxi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "174804290051-35see3p5lj22tfm8h40alko3ndsrq4jp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.wtaxi",
+            "certificate_hash": "51b54d04f20900f68b47fdb6795017238f602217"
+          }
+        },
+        {
+          "client_id": "174804290051-rv0e7gjlaprlktahbpbhp3ot587c8m20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWf5CSjUBPNrwqTJwsznXzqiYY4ViqHjM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "174804290051-rv0e7gjlaprlktahbpbhp3ot587c8m20.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
